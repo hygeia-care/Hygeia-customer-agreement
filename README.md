@@ -20,6 +20,8 @@ This document outlines the progressive development and amendments made to the Cu
 
 *Customer Agreement v8*: This version changed the pricing and the service level agreement.
 
+*Customer Agreement v9*: Changed maximum number of requests per second.
+
 **Pricing Strategy and Cost-Benefit Analysis**
 
 *Initial Pricing (up to CA v3)*: The pricing strategy up to version 3 was driven by the change in billing models as documented in CA v3. The cost-benefit analysis conducted at this stage served as the foundation for our initial pricing framework.
